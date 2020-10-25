@@ -1,0 +1,133 @@
+body{
+  line-height: 2.5;
+}
+
+.jumbotron{
+  background-image: url(img/head-image2.jpg);
+  background-color: grey;
+  margin-bottom: 0;
+}
+
+.strong{
+  font-weight: 700;
+}
+
+.em{
+  text-decoration: underline;
+}
+
+#head h1{
+  color: white;
+  padding-bottom: 3%;
+}
+
+#head .lead{
+  color: white;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
+#head .lead-2{
+  color: white;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+
+#head hr{
+  border-color: #C0C0C0;
+  border-width: 3px;
+}
+
+.top-button{
+  width: 200px;
+}
+
+.icon{
+  height: 30px;
+  width: auto;
+}
+
+#about h1{
+  padding-top: 6%;
+  padding-bottom: 6%;
+  margin: 0;
+  text-align: center;
+}
+
+#me {
+  height: auto;
+  width: 100%;
+  margin: auto;
+  border-radius: 50%;
+  padding: 3%;
+}
+
+.about-desc{
+  padding-right: 3%
+}
+
+#media .link-active{
+  text-decoration: underline;
+}
+
+#media .link-active:hover{
+  color: #0275d8;
+}
+
+#media .link-disabled{
+  text-decoration: underline;
+}
+
+#media .link-disabled:hover{
+  color: #f7f7f7;
+}
+
+#media h1{
+  padding-top: 6%;
+  padding-bottom: 6%;
+  text-align: center;
+}
+
+#media .container{
+  display: block;
+}
+
+#contact .container{
+  position: relative;
+}
+
+#contact h1 {
+  padding-top: 6%;
+  padding-bottom: 6%;
+  text-align: center;
+}
+
+#contact h3{
+  text-align: center;
+}
+
+#contact .form{
+  padding-left: 3%;
+}
+
+#contact .btn {
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-bottom: 2%;
+  width: 200px;
+}
+
+.linkedin {
+  background-color: #0072b1;
+}
+
+#footer{
+  margin-top: 3%;
+  background-color: #878787;
+  padding: 2% 0;
+}
+
+#footer p {
+  margin: 0px;
+}
